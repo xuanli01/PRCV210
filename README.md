@@ -26,7 +26,7 @@ python test.py -p /path/of/the/root/of/datasets -c model_best.pth
 ```
 
 ## Predicted Saliency Maps
-The predicted saliency maps is in the folder 'saliency_maps'.
+The predicted saliency maps are in the folder 'saliency_maps'.
 
 ## Evaluation Code
 We use the same [evaluation code](https://github.com/lartpang/PySODEvalToolkit) as the MSFNet [1] to evaluate the predicted saliency maps.
