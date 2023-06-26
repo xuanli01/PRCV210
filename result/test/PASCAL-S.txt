@@ -1,0 +1,2 @@
+F_beta  F_Omega  MAE    E_gamma
+0.855	0.834	0.060	0.910
