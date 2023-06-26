@@ -33,6 +33,6 @@ We use the same [evaluation code](https://github.com/lartpang/PySODEvalToolkit) 
 
 [1] Auto-MSFNet: Search Multi-scale Fusion Network for Salient Object Detection. ACMMM, 2021
 
-We ensembles the aboved evaluation code into our code.
+We ensemble the aboved evaluation code into our code.
 
 
