@@ -22,7 +22,7 @@ unzip ckpt/ckpt.zip
 Then, test the model
 
 ```python
-python test.py -p /path/of/the/root/of/test/dataset -c model_best.pth
+python test.py -p /path/of/the/root/of/dataset -c model_best.pth
 ```
 
 ## Predicted Saliency Maps
