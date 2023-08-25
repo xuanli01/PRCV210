@@ -35,4 +35,7 @@ We use the same [evaluation code](https://github.com/lartpang/PySODEvalToolkit) 
 
 We ensemble the aboved evaluation code into our code.
 
+## Supplementary Material
+Supplementary material can be found in 0210_supp.pdf
+
 
